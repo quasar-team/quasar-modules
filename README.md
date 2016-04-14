@@ -1,2 +1,2 @@
 # quasar-modules
-Optinal quasar modules
+Optional quasar modules
